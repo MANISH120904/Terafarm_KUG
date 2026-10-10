@@ -1,0 +1,73 @@
+name: TeraFarm
+description: "TeraFarm — grow, sell, and connect urban farms."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  firebase_storage: ^12.4.5
+  cloud_firestore: ^5.6.7
+  fake_cloud_firestore: ^3.1.0
+  firebase_auth_mocks: ^0.14.1
+  firebase_storage_mocks: ^0.7.0
+  image_picker: ^1.1.2
+  http: ^1.3.0
+  fl_chart: ^0.70.2
+  provider: ^6.1.2
+  path: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.jpg"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/create_account_bg.png
+    - assets/login_bg.png
+    - assets/google.png
+    - assets/terafarm_logo.png
+    - assets/onion.png
+    - assets/tomato.png
+    - assets/beans.png
+    - assets/greens.png
+    - assets/sample_farm.png
+    - assets/sample_farm2.png
+    - assets/Apple.png
+    - assets/grape.png
+    - assets/growing_bags.png
+    - assets/tomato_seed.png
+    - assets/pot.png
+    - assets/Boy1.png
+    - assets/Boy2.png
+    - assets/Boy3.png
+    - assets/Boy4.png
+    - assets/Boy5.png
+    - assets/Boy6.png
+    - assets/Boy7.png
+    - assets/Boy8.png
+    - assets/Boy9.png
+    - assets/Boy10.png
+    - assets/Boy11.png
+    - assets/Boy12.png
+    - assets/Girl1.png
+    - assets/Girl2.png
+    - assets/Girl3.png
+    - assets/Girl4.png

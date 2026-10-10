@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439912812950",
+    "project_id": "terafarm-3ab30",
+    "storage_bucket": "terafarm-3ab30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439912812950:android:f260380a1774bdc1a24db7",
+        "android_client_info": {
+          "package_name": "com.example.terafarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1usH29mDRGePwylJGHC9z2TVU69uAe0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439912812950:android:5345d59a6c3a16f9a24db7",
+        "android_client_info": {
+          "package_name": "com.example.terafarm1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1usH29mDRGePwylJGHC9z2TVU69uAe0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
